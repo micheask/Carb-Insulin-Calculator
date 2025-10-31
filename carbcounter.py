@@ -62,5 +62,4 @@ if food and carb > 0 and carb_ratio > 0:
     if os.path.exists("carbsaver.csv"):
         history = pd.read_csv("carbsaver.csv", names=["Food", "Carbs", "Insulin Units"])
         st.table(history)
-        st.line_chart(history["Insulin Units"])
 
