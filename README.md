@@ -9,4 +9,4 @@ I made this to personally code something that could track me carbs and calculate
 - Makes table of previous history or carbs and insulin dosage.
 
 ## How to run
-- Will need to install streamlit and pandas to utilize. Run the app using streamlit. In terminal "streamlit run carb_counter.py" Then on the side bar include your data.
+- Will need to install streamlit and pandas to utilize. Run the app using streamlit. In terminal "streamlit run carbcalculator.py" Then add your info and see your dosage!
